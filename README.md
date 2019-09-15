@@ -1,1 +1,1 @@
-# -micro-services-docker-compose-up
+# micro-services-docker-compose-up
