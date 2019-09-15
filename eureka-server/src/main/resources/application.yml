@@ -1,0 +1,12 @@
+spring:
+  application:
+    # sets the name in Eureka
+    name: ${springboot.app.name:eureka-server}
+
+server:
+  port: 8761
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
