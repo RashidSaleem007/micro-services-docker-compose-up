@@ -23,7 +23,7 @@
         <java.version>11</java.version>
 
         <!-- Dependency versions used all over the project -->
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <rest-assured.version>3.3.0</rest-assured.version>
     </properties>
 
